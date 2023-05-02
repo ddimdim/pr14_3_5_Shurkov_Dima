@@ -1,0 +1,10 @@
+C:\Users\305-5\Desktop\Шурков\prakt_14(3-5)\Queue\bin\Debug\Queue.exe.config
+C:\Users\305-5\Desktop\Шурков\prakt_14(3-5)\Queue\bin\Debug\Queue.exe
+C:\Users\305-5\Desktop\Шурков\prakt_14(3-5)\Queue\bin\Debug\Queue.pdb
+C:\Users\305-5\Desktop\Шурков\prakt_14(3-5)\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Шурков\prakt_14(3-5)\Queue\obj\Debug\prakt14.Form1.resources
+C:\Users\305-5\Desktop\Шурков\prakt_14(3-5)\Queue\obj\Debug\Queue.Properties.Resources.resources
+C:\Users\305-5\Desktop\Шурков\prakt_14(3-5)\Queue\obj\Debug\Queue.csproj.GenerateResource.cache
+C:\Users\305-5\Desktop\Шурков\prakt_14(3-5)\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Шурков\prakt_14(3-5)\Queue\obj\Debug\Queue.exe
+C:\Users\305-5\Desktop\Шурков\prakt_14(3-5)\Queue\obj\Debug\Queue.pdb
